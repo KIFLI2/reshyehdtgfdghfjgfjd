@@ -897,9 +897,7 @@ updateWhitelistedPlayersLabel()
 updateTargetPlayerLabel()
 
 -- Stats Tab Implementation
-statsTab:AddLabel("â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”")
 statsTab:AddLabel(" PLAYER STATISTICS")
-statsTab:AddLabel("â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”â”")
 
 -- Session tracking variables
 local sessionStartTime = os.time()
